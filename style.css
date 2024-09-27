@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  height: 300px;
+  width: 300px;
+  font-family: 'Electrolize', sans-serif;
+  background-color: #e8e9f3;
+}
+
+h2 {
+  color: #f25c54;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #323232;
+
+  line-height: -3px;
+}

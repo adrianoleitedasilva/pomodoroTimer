@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro Timer",
+  "version": "1.0.0",
+  "description": "O método Pomodoro é simples e dura duas horas. Primeiro, você realiza uma atividade durante 25 minutos. Quando acabar o tempo, descansa 5 minutos.",
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon16.png",
+    "48": "icon16.png"
+  },
+  "action":{
+    "default_icon": {
+      "16": "icon16.png",
+      "32": "icon16.png"
+    }, 
+    "default_title": "Pomodoro Timer Action",
+    "default_popup": "popup.html"
+  }
+}
